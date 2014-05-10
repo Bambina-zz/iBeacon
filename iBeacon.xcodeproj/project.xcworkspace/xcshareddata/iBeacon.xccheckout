@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F0E4A6BC-8A57-4F32-9D40-EED2C89DBF1A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>iBeacon</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>94D80306-7EFE-4587-86E0-5172F33E26B5</key>
+		<string>ssh://github.com/Bambina/ghost-0.4.1.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iBeacon/iBeacon.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>94D80306-7EFE-4587-86E0-5172F33E26B5</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/Bambina/ghost-0.4.1.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>94D80306-7EFE-4587-86E0-5172F33E26B5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>94D80306-7EFE-4587-86E0-5172F33E26B5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Project</string>
+		</dict>
+	</array>
+</dict>
+</plist>
